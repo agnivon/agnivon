@@ -1,16 +1,16 @@
-<img src="assets/headerimage.jpg" height=50% alt="Philosophy at the center of everything.">
+<img src="assets/cover.jpg" height=50% alt="Philosophy at the center of everything.">
 
-<h1 align="center">😎 Hi! I'm Agnivo Neogi</h1>
+<h1 align="center">Hi 👋, I'm Agnivo Neogi</h1>
 
-I am an IT professional committed to delivering exceptional results, streamlining operations, and implementing effective IT strategies to support business objectives.
+<!-- <p>I'm a seasoned full-stack developer with over 2 years of experience, having served in developer relations and as an open-source mentor. I'm currently crafting 'Resume Matcher,' a Python-driven ATS harnessing the prowess of Machine Learning, Generative AI, and Vector Databases. I'm actively exploring job opportunities and roles. If my expertise aligns well with what you're looking for or is impressed by my work, I'd greatly appreciate any recommendations or introductions to potential opportunities.</p> -->
 
-<!-- <div align="center">
+<div align="center">
 
-Meanwhile check: **[Free Open Source ATS "Resume Matcher"](https://github.com/srbhr/Resume-Matcher)**
+Check: **["Resume Generator"](https://rg.agnivon.com)**
 
-[![Resume Matcher](https://custom-icon-badges.demolab.com/badge/Resume_Matcher-orange?style=for-the-badge&logo=rocket&logoColor=black)](https://github.com/srbhr/Resume-Matcher)
+[![Resume Matcher](https://custom-icon-badges.demolab.com/badge/Resume_Generator-blue?style=for-the-badge&logo=rocket&logoColor=black)](https://rg.agnivon.com)
 
-</div> -->
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -49,7 +49,7 @@ Meanwhile check: **[Free Open Source ATS "Resume Matcher"](https://github.com/sr
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -69,6 +69,8 @@ Meanwhile check: **[Free Open Source ATS "Resume Matcher"](https://github.com/sr
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<!-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 <!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  -->
 <!-- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  -->
 <!-- ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  -->
@@ -122,8 +124,8 @@ Meanwhile check: **[Free Open Source ATS "Resume Matcher"](https://github.com/sr
 
 </details>
 
-<!-- <div align="center"> 
-  
+<!-- <div align="center">
+
 <h3>Support My Work:</h3>
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/srbhr) [![Sponsor on GitHub](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/srbhr)
