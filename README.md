@@ -6,7 +6,7 @@
 
 <div align="center">
 
-Check: **["Resume Generator"](https://rg.agnivon.com)**
+Check out: **["Resume Generator"](https://rg.agnivon.com)**
 
 [![Resume Matcher](https://custom-icon-badges.demolab.com/badge/Resume_Generator-blue?style=for-the-badge&logo=rocket&logoColor=black)](https://rg.agnivon.com)
 
