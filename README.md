@@ -38,7 +38,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agnivon&" alt="agnivon" /></p>
 
 [![agnivon's GitHub | Stats](https://stats.quine.sh/agnivon/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=agnivon)
-
-[![agnivon's GitHub | Topics Over Time](https://stats.quine.sh/agnivon/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=agnivon)
-
-[![agnivon's GitHub | Languages Over Time](https://stats.quine.sh/agnivon/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=agnivon)
