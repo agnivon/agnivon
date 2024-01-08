@@ -70,6 +70,7 @@ Check out: **["Resume Generator"](https://rg.agnivon.com)**
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 <!-- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) -->
 <!-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 <!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  -->
@@ -100,9 +101,50 @@ Check out: **["Resume Generator"](https://rg.agnivon.com)**
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=agnivon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=agnivon&theme=dark&hide_border=false)
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=agnivon&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=agnivon"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=agnivon" />
+  </picture>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=github_dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  </picture>
+  </a>
+</div>
+<br />
+<div>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <picture>
+      <source
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=agnivon&theme=neon&hide_border=false"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=agnivon&hide_border=false"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agnivon&hide_border=false" />
+    </picture>
+  </a>
+</div>
 
 </div>
 
@@ -112,13 +154,35 @@ Check out: **["Resume Generator"](https://rg.agnivon.com)**
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a>
+    <picture>
+      <source
+        srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://quotes-github-readme.vercel.app/api?type=horizontal"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=200 align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+    </picture>
+</a>
 
-<br>
+<!-- ### 🔝 Top Contributed Repo
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=agnivon&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a>
+    <picture>
+      <source
+        srcset="https://github-contributor-stats.vercel.app/api?username=agnivon&limit=5&theme=github_dark&combine_all_yearly_contributions=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-contributor-stats.vercel.app/api?username=agnivon&limit=5&combine_all_yearly_contributions=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=agnivon&limit=5&combine_all_yearly_contributions=true" />
+    </picture>
+</a> -->
 
 </div>
 <br/>
